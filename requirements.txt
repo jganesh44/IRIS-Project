@@ -5,6 +5,5 @@ matplotlib
 seaborn
 scikit-learn
 streamlit
-st_radial
 ipykernel
 
